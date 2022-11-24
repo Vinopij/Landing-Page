@@ -1,0 +1,57 @@
+.stylish {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image: url(../images/street.svg);
+    background-color: black;
+    background-size: cover;
+}
+
+.stylish-content {
+  max-width: 1400px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 50px 0;
+}
+
+.stylish-us {
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    align-items: center;
+    text-align: center;
+}
+
+.stylish-us h2 {
+    color: white;
+}
+
+.stylish-us p {
+  font-size: 16px;
+  line-height: 20px;
+  color: #fff;
+  font-weight: 200;
+  font-family: "Raleway";
+}
+
+.border-stylish {
+    border-top: 3px solid white;
+    width: 74px;
+    margin: 50px 0;
+}
+
+.border {
+    border-bottom: 1px solid white;
+    width: 47px;
+    height: 10px;
+    position: relative;
+    left: 47%;
+}
+
+
+
